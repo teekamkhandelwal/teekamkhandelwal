@@ -24,6 +24,14 @@ Here are some ideas to get you started:
  <a href="https://www.linkedin.com/in/teekam-chand-k-1640a2155/"><img src="https://img.shields.io/badge/in-Teekam%20Chand%20Khandelwal-blue"/></a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
+
+- 🔭 I’m currently working on ...Verification of communication protocoal and Irrigation Controller using Verilog Based on Fuzzy logic and some projects of RTL design.
+- 🌱 I’m currently learning ...System verilog Assertion,code coverage and UVM 
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...Anything , Related to Front-end VlSI Domain, Digital Electronics, FPGA , I'm happy to help.
+- 📫 How to reach me: ...on mail teekamkhandelwal@gmail.com
+- 😄 Pronouns: ...He/ His/ Him 😇
+- ⚡ Fun fact: ...
 -  **Working :** Mobile-App & Web Development :iphone: | Cloud :cloud: 
 -  **Learning :** Full-Stack :zap: | Open-Source :fire:	
 -  **Hobbies :** Books :books: | Music :headphones:
