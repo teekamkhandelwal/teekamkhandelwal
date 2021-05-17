@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## Teekam chand khandelwal 👨‍💻 
-[![Linkedin Badge](https://img.shields.io/badge/in-Teekam%20Chand%20Khandelwal-blue=https://www.linkedin.com/in/teekam-chand-k-1640a2155/)](https://www.linkedin.com/in/teekam-chand-k-1640a2155/)  
+(https://img.shields.io/badge/in-Teekam%20Chand%20Khandelwal-blue=https://www.linkedin.com/in/teekam-chand-k-1640a2155/)](https://www.linkedin.com/in/teekam-chand-k-1640a2155/)  
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="teekam-chand-k-1640a2155" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/teekam-chand-k-1640a2155?trk=profile-badge">Teekam Chand K.</a></div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
