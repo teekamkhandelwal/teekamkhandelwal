@@ -52,4 +52,6 @@ Here are some ideas to get you started:
 > Teekam Chand Khandelwal
 
 ⭐️ From [teekam-chand-khandelwal](https://github.com/teekam-chand-khandelwal)
-<a href="https://img.shields.io/github/followers/teekam-chand-khandelwal?style=social"</a>
+
+<a href="https://github.com/teekam-chand-khandelwal"><img src="https://img.shields.io/github/followers/teekam-chand-khandelwal?style=social"/></a>
+
