@@ -14,30 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Teekam Chand Khandelwal</h1>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-   ### githubUsername: 'teekam-chand-khandelwal'
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<h1 align="center">Hi 👋, I'm Teekam Chand Khandelwal</h1> 
 
 ## Teekam chand khandelwal 👨‍💻 
  <a href="https://www.linkedin.com/in/teekam-chand-k-1640a2155/"><img src="https://img.shields.io/badge/in-Teekam%20Chand%20Khandelwal-blue"/></a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
-- 🔭 I’m currently working on ...Verification of communication protocoal and Irrigation Controller using Verilog Based on Fuzzy logic and some projects of RTL design.
-- 🌱 I’m currently learning ...System verilog Assertion,code coverage and UVM 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...Anything , Related to Front-end VlSI Domain, Digital Electronics, FPGA , I'm happy to help.
-- 📫 How to reach me: ...on mail teekamkhandelwal@gmail.com
-- 😄 Pronouns: ...He/ His/ Him 😇
-- ⚡ Fun fact: ...
--  **Working :** Mobile-App & Web Development :iphone: | Cloud :cloud: 
--  **Learning :** Full-Stack :zap: | Open-Source :fire:	
--  **Hobbies :** Books :books: | Music :headphones:
--  **Ask me about :** Anything!, I'm happy to help :v:
--  **Fun fact :** When most developer loves coffee:sweat_smile: But, I prefer tea :heart: 
--  **Pronouns :** He/Him/His :innocent:
+- 💡 :I like to explore new technologies and creating  projects(Fronnt-end VLSI).
+- 🔭 I’m currently working on: Verification of communication protocoal and Irrigation Controller using Verilog Based on Fuzzy logic and some projects of RTL design.
+- 🌱 I’m currently learning: I'm on track for learning more about System verilog Assertion,code coverage and UVM 
+- 📫 How to reach me: You can shoot me an email at teekamkhandelwal@gmail.com! I'll try to respond as soon as I can
+- 😄 Pronouns: He/ His/ Him 😇
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
