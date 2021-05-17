@@ -1,4 +1,5 @@
 ### Hi there 👋
+teekam-chand-khandelwal 
 
 <!--
 **teekam-chand-khandelwal/teekam-chand-khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
-title: teekam-chand-khandelwal 
-date: '2020-17-05'
 githubUsername: 'teekam-chand-khandelwal'
 ---
 
-## Teekam chand khandelwal 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/-SulthanNK-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/SulthanNK)](https://twitter.com/SulthanNK) 
+## Teekam chand khandelwal 👨‍💻 
 [![Linkedin Badge](https://img.shields.io/badge/-Sulthan_Mohaideen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/)](https://www.linkedin.com/in/sulthannk/) 
 [![Dev Badge](https://img.shields.io/badge/-SulthanNK-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk)](https://dev.to/sulthannk) 
 
