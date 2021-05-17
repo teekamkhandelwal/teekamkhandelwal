@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## Teekam chand khandelwal 👨‍💻 
-[![Linkedin Badge](https://img.shields.io/badge/-Teekam Chand Khandelwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sulthannk/)](https://www.linkedin.com/in/sulthannk/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Teekam Chand Khandelwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/teekam-chand-k-1640a2155/)](https://www.linkedin.com/in/teekam-chand-k-1640a2155/) 
 [![Dev Badge](https://img.shields.io/badge/-teekam-chand-khandelwal-black?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/sulthannk)](https://dev.to/sulthannk) 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
