@@ -1,6 +1,6 @@
 
 <!--
-**teekamkhandelwal/teekam-chand-khandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**teekamkhandelwal/teekamkhandelwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=teekam-chand-khandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="teekam-chand-khandelwal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=teekamkhandelwal&label=Profile%20views&color=0e75b6&style=flat" alt="teekamkhandelwal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teekam-chand-khandelwal" alt="teekam-chand-khandelwal" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teekamkhandelwal" alt="teekamkhandelwal" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teekam-chand-khandelwal&show_icons=true&locale=en&layout=compact" alt="teekam-chand-khandelwal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teekamkhandelwal&show_icons=true&locale=en&layout=compact" alt="teekamkhandelwal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teekam-chand-khandelwal&show_icons=true&locale=en" alt="teekam-chand-khandelwal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teekamkhandelwal&show_icons=true&locale=en" alt="teekamkhandelwal" /></p>
 
 
 
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > Teekam Chand Khandelwal
 
-⭐️ From [teekam-chand-khandelwal](https://github.com/teekam-chand-khandelwal)
+⭐️ From [teekamkhandelwal](https://github.com/teekamkhandelwal)
 
-<a href="https://github.com/teekam-chand-khandelwal"><img src="https://img.shields.io/github/followers/teekam-chand-khandelwal?style=social"/></a>
+<a href="https://github.com/teekamkhandelwal"><img src="https://img.shields.io/github/followers/teekamkhandelwal?style=social"/></a>
 
