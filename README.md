@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Teekam Chand Khandelwal</h1> 
 
-## Teekam chand khandelwal 👨‍💻 
+## T K 👨‍💻 
  <a href="https://www.linkedin.com/in/teekam-chand-k-1640a2155/"><img src="https://img.shields.io/badge/in-Teekam%20Chand%20Khandelwal-blue"/></a>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - 💡 :I like to explore new technologies and creating  projects(Front-end VLSI).
 - 🔭 I’m currently working on: Verification of communication protocoal and Irrigation Controller using Verilog Based on Fuzzy logic and some projects of RTL design.
 - 🌱 I’m currently learning: I'm on track for learning more about System verilog Assertion,code coverage and UVM 
-- 📫 How to reach me: You can shoot me an email at teekamkhandelwal@gmail.com! I'll try to respond as soon as I can
 - 😄 Pronouns: He/ His/ Him 😇
 
 
@@ -46,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-> Teekam Chand Khandelwal
+>
 
 ⭐️ From [teekamkhandelwal](https://github.com/teekamkhandelwal)
 
