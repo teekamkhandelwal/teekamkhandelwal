@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Teekam Chand Khandelwal</h1> 
+<h1 align="center">Hi 👋, I'm T K </h1> 
 
 ## T K 👨‍💻 
  <a href="https://www.linkedin.com/in/teekam-chand-k-1640a2155/"><img src="https://img.shields.io/badge/in-Teekam%20Chand%20Khandelwal-blue"/></a>
